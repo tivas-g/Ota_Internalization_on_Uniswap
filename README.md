@@ -36,7 +36,7 @@ The dataset is curated by [Koshi Ota](https://github.com/username-placeholder), 
 
 ## Implementation Guideline
 
-An overview of the data pipeline for this paper is implemented through Dune Analytics queries. The table below maps dataset columns to their corresponding Dune queries:
+The data pipeline for the empirics from this paper is implemented through Dune Analytics queries. The table below maps dataset columns to their corresponding Dune queries. Dune queries can be accessed from the links in the table below, and the raw SQL can be found in this repository.:
 
 | Spread sheet name | Dune query number | Dune column name | Dune link |
 |-------------------|-------------------|------------------|-----------|
@@ -57,4 +57,3 @@ An overview of the data pipeline for this paper is implemented through Dune Anal
 | daily_realized_volatility | 4420754 | daily_realized_volatility | [https://dune.com/queries/4420754](https://dune.com/queries/4420754) |
 | market_depth | 4884606 | log_market_depth_usd | [https://dune.com/queries/4884606](https://dune.com/queries/4884606) |
 | log_average_gas_cost_usd | 4510136 | log_average_gas_cost_usd | [https://dune.com/queries/4510136](https://dune.com/queries/4510136) |
-
