@@ -8,9 +8,13 @@ The dataset is curated by [Koshi Ota](https://github.com/username-placeholder), 
 *For the entire-range dataset and more details of our work, stay in tune for this repo and the TLDR Conference 2025.*
 
 **date_range:** Dataset spans transaction activity on Uniswap
+
 **structure:** [153 rows, 19 columns]
+
 **source:** Dune Analytics
+
 **blockchain:** Ethereum
+
 **variables:**
 
 | Variable | Type | Description |
