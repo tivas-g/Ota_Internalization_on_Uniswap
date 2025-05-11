@@ -24,10 +24,10 @@ The dataset is curated by [Koshi Ota](https://github.com/username-placeholder), 
 | `UniswapV3: WETH/USDC (5bp ES, $5K–7.5K)` | FLOAT | Effective spread for $5K-7.5K trades on UniswapV3 5bp pool |
 | `UniswapV3: WETH/USDC (5bp ES, $10K–15K)` | FLOAT | Effective spread for $10K-15K trades on UniswapV3 5bp pool |
 | `UniswapV3: WETH/USDC (5bp ES, $50K–75K)` | FLOAT | Effective spread for $50K-75K trades on UniswapV3 5bp pool |
-| `Uniswap: WETH/USDC (ES, $1K–1.5K)` | FLOAT | Effective spread for $1K-1.5K trades across Uniswap pools |
-| `Uniswap: WETH/USDC (ES, $5K–7.5K)` | FLOAT | Effective spread for $5K-7.5K trades across Uniswap pools |
-| `Uniswap: WETH/USDC (ES, $10K–15K)` | FLOAT | Effective spread for $10K-15K trades across Uniswap pools |
-| `Uniswap: WETH/USDC (ES, $50K–75K)` | FLOAT | Effective spread for $50K-75K trades across Uniswap pools |
+| `Uniswap: WETH/USDC (ES, $1K–1.5K)` | FLOAT | Effective spread for $1K-1.5K trades across Uniswap Protocol |
+| `Uniswap: WETH/USDC (ES, $5K–7.5K)` | FLOAT | Effective spread for $5K-7.5K trades across Uniswap Protocol |
+| `Uniswap: WETH/USDC (ES, $10K–15K)` | FLOAT | Effective spread for $10K-15K trades across Uniswap Protocol |
+| `Uniswap: WETH/USDC (ES, $50K–75K)` | FLOAT | Effective spread for $50K-75K trades across Uniswap Protocol |
 | `internalization_rate` | FLOAT | Rate of trades internalized by professional market makers |
 | `Trade Size Specific PMM Ratio ($1K–$1.5K)` | FLOAT | Professional Market Maker ratio for $1K-1.5K trades |
 | `Trade Size Specific PMM Ratio ($5K–$7.5K)` | FLOAT | Professional Market Maker ratio for $5K-7.5K trades |
